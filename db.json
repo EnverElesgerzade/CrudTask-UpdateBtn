@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "name": "Anvar",
+      "surname": "Alasgarzada",
+      "age": 211,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "Feyruz",
+      "surname": "Alizada",
+      "age": 22
+    },
+    {
+      "id": "3",
+      "name": "Leyla",
+      "surname": "Piraliyeva",
+      "age": 29
+    },
+    {
+      "name": "Aysun",
+      "surname": "Alyarzada",
+      "age": 22,
+      "id": "NjKXxEDNyII"
+    },
+    {
+      "name": "",
+      "surname": "",
+      "age": 0,
+      "id": "HdgUe61igVk"
+    },
+    {
+      "name": "",
+      "surname": "",
+      "age": 0,
+      "id": "N3ek4XOpbrc"
+    },
+    {
+      "name": "",
+      "surname": "",
+      "age": 0,
+      "id": "DsQmknplbIg"
+    },
+    {
+      "name": "Jada Klein",
+      "surname": "Pratt",
+      "age": 0,
+      "id": "dQermkF3cZ0"
+    },
+    {
+      "name": "Enver Elesgerzade",
+      "surname": "sdsd",
+      "age": 21,
+      "id": "8td18pZknz4"
+    },
+    {
+      "name": "Enver Elesgerzade",
+      "surname": "sdsd",
+      "age": 21,
+      "id": "HxTefJt9bUE"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
